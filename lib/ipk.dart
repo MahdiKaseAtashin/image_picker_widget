@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:image_picker_widget/image_picker_widget.dart';
+import 'image_picker_widget.dart';
 
 class ImagePickerK3 extends StatelessWidget {
   final Color backgroundColor;
