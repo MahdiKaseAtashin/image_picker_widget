@@ -1,7 +1,6 @@
 library image_picker_widget;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'ipk.dart';
+export 'ipk_type.dart';
+export 'ipk_drag_drop/ipk_drag_drop.dart';
+export 'ipk_simple/ipk_simple.dart';

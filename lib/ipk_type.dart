@@ -1,0 +1,5 @@
+
+enum ImagePickerType{
+  simple,
+  dragDrop
+}
